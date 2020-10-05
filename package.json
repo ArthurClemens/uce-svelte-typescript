@@ -1,6 +1,7 @@
 {
   "name": "uce-svelte-typescript",
   "version": "0.1.0",
+  "description": "Example project of uce with Svelte and TypeScript",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
